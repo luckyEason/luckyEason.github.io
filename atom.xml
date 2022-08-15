@@ -3,11 +3,11 @@
   <title>僵尸电鳗的博客</title>
   
   <subtitle>僵尸电鳗的博客</subtitle>
-  <link href="/atom.xml" rel="self"/>
+  <link href="/child/atom.xml" rel="self"/>
   
-  <link href="https://luckyEason.github.io/"/>
+  <link href="https://luckyEason.github.io/child/"/>
   <updated>2022-08-13T11:36:19.020Z</updated>
-  <id>https://luckyEason.github.io/</id>
+  <id>https://luckyEason.github.io/child/</id>
   
   <author>
     <name>僵尸电鳗</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>野狐围棋接入ai</title>
-    <link href="https://luckyEason.github.io/2022/08/13/ye-hu-wei-qi-jie-ru-ai/"/>
-    <id>https://luckyEason.github.io/2022/08/13/ye-hu-wei-qi-jie-ru-ai/</id>
+    <link href="https://luckyEason.github.io/child/2022/08/13/ye-hu-wei-qi-jie-ru-ai/"/>
+    <id>https://luckyEason.github.io/child/2022/08/13/ye-hu-wei-qi-jie-ru-ai/</id>
     <published>2022-08-13T07:09:48.000Z</published>
     <updated>2022-08-13T11:36:19.020Z</updated>
     
@@ -41,8 +41,8 @@
   
   <entry>
     <title>博客开源</title>
-    <link href="https://luckyEason.github.io/2019/08/27/blog-open-source/"/>
-    <id>https://luckyEason.github.io/2019/08/27/blog-open-source/</id>
+    <link href="https://luckyEason.github.io/child/2019/08/27/blog-open-source/"/>
+    <id>https://luckyEason.github.io/child/2019/08/27/blog-open-source/</id>
     <published>2019-08-27T03:41:03.000Z</published>
     <updated>2022-07-29T09:58:44.495Z</updated>
     
@@ -58,14 +58,14 @@
     
     </summary>
     
-      <category term="软件安装与配置" scheme="https://luckyEason.github.io/categories/%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E4%B8%8E%E9%85%8D%E7%BD%AE/"/>
+      <category term="软件安装与配置" scheme="https://luckyEason.github.io/child/categories/%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E4%B8%8E%E9%85%8D%E7%BD%AE/"/>
     
     
-      <category term="Hexo" scheme="https://luckyEason.github.io/tags/Hexo/"/>
+      <category term="Hexo" scheme="https://luckyEason.github.io/child/tags/Hexo/"/>
     
-      <category term="Github" scheme="https://luckyEason.github.io/tags/Github/"/>
+      <category term="Github" scheme="https://luckyEason.github.io/child/tags/Github/"/>
     
-      <category term="博客" scheme="https://luckyEason.github.io/tags/%E5%8D%9A%E5%AE%A2/"/>
+      <category term="博客" scheme="https://luckyEason.github.io/child/tags/%E5%8D%9A%E5%AE%A2/"/>
     
   </entry>
   
