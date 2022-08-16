@@ -9,35 +9,7 @@
   </url>
   
   <url>
-    <loc>/categories/index.html</loc>
-    
-    <lastmod>2022-07-29T09:58:44.505Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>/galleries/%E8%83%8C%E6%99%AF%E5%9B%BE%E7%89%874/index.html</loc>
-    
-    <lastmod>2022-07-29T09:58:44.505Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>/tags/index.html</loc>
-    
-    <lastmod>2022-07-29T09:58:44.505Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>/galleries/index.html</loc>
-    
-    <lastmod>2022-07-29T09:58:44.505Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>/friends/index.html</loc>
     
     <lastmod>2022-07-29T09:58:44.505Z</lastmod>
     
@@ -51,6 +23,20 @@
   </url>
   
   <url>
+    <loc>/friends/index.html</loc>
+    
+    <lastmod>2022-07-29T09:58:44.505Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>/tags/index.html</loc>
+    
+    <lastmod>2022-07-29T09:58:44.505Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>/contact/index.html</loc>
     
     <lastmod>2022-07-29T09:58:44.505Z</lastmod>
@@ -58,14 +44,28 @@
   </url>
   
   <url>
-    <loc>/archives/index.html</loc>
+    <loc>/categories/index.html</loc>
+    
+    <lastmod>2022-07-29T09:58:44.505Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>/galleries/index.html</loc>
+    
+    <lastmod>2022-07-29T09:58:44.505Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>/2019/08/27/blog-open-source/</loc>
     
     <lastmod>2022-07-29T09:58:44.495Z</lastmod>
     
   </url>
   
   <url>
-    <loc>/about/index.html</loc>
+    <loc>/archives/index.html</loc>
     
     <lastmod>2022-07-29T09:58:44.495Z</lastmod>
     
@@ -86,7 +86,7 @@
   </url>
   
   <url>
-    <loc>/2019/08/27/blog-open-source/</loc>
+    <loc>/about/index.html</loc>
     
     <lastmod>2022-07-29T09:58:44.495Z</lastmod>
     
