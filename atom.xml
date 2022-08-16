@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="/"/>
-  <updated>2022-08-13T11:36:19.020Z</updated>
+  <updated>2022-08-16T04:03:23.357Z</updated>
   <id>/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>测试</title>
+    <link href="/2022/08/16/ao-tu-shi-jie-di-san-ji-18-ji-shou-wang-yi-zu/"/>
+    <id>/2022/08/16/ao-tu-shi-jie-di-san-ji-18-ji-shou-wang-yi-zu/</id>
+    <published>2022-08-16T03:57:08.000Z</published>
+    <updated>2022-08-16T04:03:23.357Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;iframe src=&quot;//player.bilibili.com/player.html?aid=300427846&amp;amp;bvid=BV1yf4y1o7aA&amp;amp;cid=761037127&amp;amp;page=1&quot; scrolling=&quot;no&quot; border=&quot;0&quot;
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>野狐围棋接入ai</title>
