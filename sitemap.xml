@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.luckyeason.tk/update/index.html</loc>
+    
+    <lastmod>2023-07-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.luckyeason.tk/messageboard/index.html</loc>
     
     <lastmod>2023-07-04</lastmod>
@@ -12,15 +21,6 @@
   
   <url>
     <loc>https://blog.luckyeason.tk/zaobao/index.html</loc>
-    
-    <lastmod>2023-07-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.luckyeason.tk/update/index.html</loc>
     
     <lastmod>2023-07-04</lastmod>
     

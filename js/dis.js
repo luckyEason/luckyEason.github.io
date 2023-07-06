@@ -194,7 +194,7 @@ $.ajax({
         
             document.getElementsByClassName("announcement_content")[0].innerHTML =
                 `欢迎来自<span>${pos}</span>的小伙伴，${timeChange}<br>
-        你距离Ariasaka约有<span>${dist}</span>公里，${posdesc}
+        你距离fishhome约有<span>${dist}</span>公里，${posdesc}
         <br>
         <br>
         本网站的Twikoo评论系统使用<a href="https://cravatar.cn">Cravatar</a>头像系统，请自行绑定邮箱配置
